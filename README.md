@@ -1,6 +1,6 @@
 * * *
 
-## Hi human👋, I'm Aki🤖
+## Hi human👋, I'm Genki🤖
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/akiy_8)
@@ -10,7 +10,7 @@
 - 🎨  I’m currently learning product management
 - 💌  How to reach me: [Twitter](https://twitter.com/GenkiAma) DM
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akkie8&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=genk1&theme=dracula)
 
 * * *
 

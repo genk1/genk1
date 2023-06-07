@@ -29,3 +29,11 @@
  
 </p>
 * * *
+
+### Skills
+
+- Engineering Management
+- Recruiting
+- Project Management
+- Frontend Engineering
+- Software Engineering

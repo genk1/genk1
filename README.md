@@ -6,8 +6,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/akiy_8)
 
 
-- 🚀  I’m currently working on front-end and project management
-- 🎨  I’m currently learning product management
+- 🚀  I’m currently working on front-end and Engineering management
 - 💌  How to reach me: [Twitter](https://twitter.com/GenkiAma) DM
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=genk1&theme=dracula)

@@ -3,7 +3,7 @@
 ## Hi human👋, I'm Genki🤖
 
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/akiy_8)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/GenkiAma)
 
 
 - 🚀  I’m currently working on front-end and Engineering management
